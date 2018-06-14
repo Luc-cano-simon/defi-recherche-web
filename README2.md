@@ -249,7 +249,30 @@ Le Marketing Automation pour que les taches ce fassent automatiquement
 
 (source => https://doc.ubuntu-fr.org/tutoriel/connaitre_son_adresse_ip)
 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+    - ET CELLE DE VOTRE SMARTPHONE ?
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
     
-   
-    
+	- QU’EST-CE QUE LE DÉVELOPPEMENT EN CYCLE V ?
+
+
+Le cycle en V est une méthode d’organisation très connue dont l’origine remonte à l’industrie et qui a été adaptée à l’informatique dans les années 80. C’est l’une des premières méthodes qu’on apprend à l’école après le cycle en cascade, et elle reste toujours d’actualité.
+
+(source =>http://www.geek-directeur-technique.com/2009/02/04/le-cycle-en-v)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+	- LES HACKERS SONT-ILS DES HORS-LA-LOI ?
+
+
 
