@@ -214,6 +214,9 @@ Il a  créé le logiciel de gestion de versions décentralisée Git et le logici
 
 	- COMBIEN COÛTE UN NOM DE DOMAINE ?
 
+Le coût d’un nom de domaine est largement tributaire de la nature du domaine. Un domaine en .info peut coûter moins de 1 $, et un domaine .com, avec l’option whois privé peut coûter jusqu’à 30 $ selon le registrar
+(source => http://www.top10hebergeurs.com/guide/hebergement-web/le-vrai-cout-dun-nom-de-domaine/)
+
 
 
 
