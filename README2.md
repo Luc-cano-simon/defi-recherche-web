@@ -99,6 +99,16 @@ Les prochains rendez vous Tech sur Toulouse sont :
       			FrenchTech toulouse => https://www.frenchtechtoulouse.com/
 
 
+								**QUI EST AARON SWARTZ ?**
+
+Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York1, était un informaticien, écrivain, militant politique et hacktiviste américain.Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice. C'étais aussi un Écrivain prolifique sous différentes formes (blogs, pamphlets politiques, textes de conférences), l'ouvrage Celui qui pourrait changer le monde (parution en français en 2017) 
+	(Source => https://fr.wikipedia.org/wiki/Aaron_Swartz)
+
+								**Qu’est-ce que le projet GNU ?**
+
+
+		
+
 
 
 		
