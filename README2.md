@@ -90,7 +90,7 @@ l'ordinateur Harvard Mark II, sur lequel travaillait l'informaticienne, serait t
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-	- QUELS SONT LES COMMUNAUTÉS DE DÉVELOPPEURS À TOULOUSE  
+	- QUELS SONT LES COMMUNAUTÉS DE DÉVELOPPEURS À TOULOUSE 
 
 Comme communautés de dev sur Toulouse il y a :
 
@@ -126,7 +126,7 @@ Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à Ne
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-	- Qu’est-ce que le projet GNU ? 
+	- QU’EST-CE QUE LE PROJET GNU ? 
 
 
 est un système d’exploitation libre créé en 1983 par Richard Stallman, maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX2.
@@ -138,7 +138,7 @@ Les logiciels qui composent GNU sont généralement utilisés en association ave
 
 
 
-	- Quelles sont les différences entre le Http et le Https ? 
+	- QUELLES SONT LES DIFFÉRENCES ENTRE LE HTTP ET LE HTTPS ? 
 
 
 Http => Le but du protocole HTTP est de permettre un transfert de fichiers (essentiellement au format HTML) localisés grâce à une chaîne de caractères appelée URL entre un navigateur (le client) et un serveur Web (appelé d'ailleurs httpd sur les machines UNIX).
@@ -148,7 +148,7 @@ Http => Le but du protocole HTTP est de permettre un transfert de fichiers (esse
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-	- Qui est Richard Stallman ?
+	- QUI EST RICHARD STALLMAN ?
 
 
 
@@ -156,7 +156,7 @@ Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous l
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-	- Comment fonctionnent les bang de Duck Duck Go ? 
+	- COMMENT FONCTIONNENT LES BANG DE DUCK DUCK GO ? 
 
 DuckDuckGo est construit principalement sur les API de recherche de différents fournisseurs majeurs (tels que Yahoo! BOSS, embed.ly, WolframAlpha, EntireWeb, Bing & Blekko)39. TechCrunch caractérise même « d'hybride » le service de moteur de recherche40,41. Dans le même temps, le moteur de recherche produit ses propres pages de contenu et est également similaire à des sites comme Mahalo, Kosmix et SearchMe.
 
@@ -166,7 +166,12 @@ Le moteur de recherche DuckDuckGo est écrit en Perl et JavaScript et fonctionne
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
+	- QUI EST MARISSA MAYER ?
 
+Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Après 13 ans passés chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation, elle occupe de 2012 à 2017 le poste de PDG de Yahoo!
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 		
 
