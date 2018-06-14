@@ -169,6 +169,7 @@ Le moteur de recherche DuckDuckGo est écrit en Perl et JavaScript et fonctionne
 	- QUI EST MARISSA MAYER ?
 
 Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Après 13 ans passés chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation, elle occupe de 2012 à 2017 le poste de PDG de Yahoo!
+(source https://fr.wikipedia.org/wiki/Marissa_Mayer)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -183,6 +184,7 @@ L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouve
 Cette méthode est en général considérée comme la plus simple concevable. Elle permet de casser tout mot de passe en un temps fini indépendamment de la protection utilisée, mais le temps augmente avec la longueur du mot de passe. En théorie la complexité d'une attaque par force brute est une fonction exponentielle de la longueur du mot de passe, la rendant en principe impossible pour des mots de passe de longueur moyenne; En pratique des optimisations heuristiques peuvent donner des résultats dans des délais beaucoup plus courts.
 
 Cette méthode est souvent combinée avec l'attaque par dictionnaire et par table arc-en-ciel pour trouver le secret plus rapidement.
+(source => https://fr.wikipedia.org/wiki/Attaque_par_force_brute)
 
 
 
@@ -192,15 +194,35 @@ Cette méthode est souvent combinée avec l'attaque par dictionnaire et par tabl
 
 
 
-
+	- QUI EST LINUS TORVALDS
 
 						
 
+Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais
+
+	
+
+	- QUELS SONT SES PLUS GRANDS DÉVELOPPEMENTS
+
+Il a  créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface  
+
+(Source => https://fr.wikipedia.org/wiki/Linus_Torvalds#D%C3%A9buts_du_d%C3%A9veloppement)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	- COMBIEN COÛTE UN NOM DE DOMAINE ?
 
 
 
 
 
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
  
 	
