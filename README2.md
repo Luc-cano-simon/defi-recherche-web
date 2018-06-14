@@ -107,7 +107,10 @@ Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à Ne
 								**Qu’est-ce que le projet GNU ?**
 
 
-		
+est un système d’exploitation libre créé en 1983 par Richard Stallman, maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX2.
+
+Les logiciels qui composent GNU sont généralement utilisés en association avec des logiciels libres issus d'autres projets tels que le noyau Linux.
+	( source =>https://fr.wikipedia.org/wiki/GNU)
 
 
 
