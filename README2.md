@@ -102,13 +102,13 @@ Les prochains rendez vous Tech sur Toulouse sont :
 
 								**QUI EST AARON SWARTZ ?**
 
-Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York1, était un informaticien, écrivain, militant politique et hacktiviste américain.Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice. C'étais aussi un Écrivain prolifique sous différentes formes (blogs, pamphlets politiques, textes de conférences), l'ouvrage Celui qui pourrait changer le monde (parution en français en 2017) 
+	Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York1, était un informaticien, écrivain, militant politique et hacktiviste américain.Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice. C'étais aussi un Écrivain prolifique sous différentes formes (blogs, pamphlets politiques, textes de conférences), l'ouvrage Celui qui pourrait changer le monde (parution en français en 2017) 
 	(Source => https://fr.wikipedia.org/wiki/Aaron_Swartz)
 
 								**Qu’est-ce que le projet GNU ?**
 
 
-est un système d’exploitation libre créé en 1983 par Richard Stallman, maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX2.
+	est un système d’exploitation libre créé en 1983 par Richard Stallman, maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX2.
 
 Les logiciels qui composent GNU sont généralement utilisés en association avec des logiciels libres issus d'autres projets tels que le noyau Linux.
 	( source =>https://fr.wikipedia.org/wiki/GNU)
@@ -123,8 +123,11 @@ Les logiciels qui composent GNU sont généralement utilisés en association ave
 	Https => HTTPS permet au visiteur de vérifier l'identité du site web auquel il accède, grâce à un certificat d'authentification émis par une autorité tierce, réputée fiable (et faisant généralement partie de la liste blanche des navigateurs internet). Il garantit théoriquement la confidentialité et l'intégrité des données envoyées par l'utilisateur (notamment des informations entrées dans les formulaires) et reçues du serveur. Il peut permettre de valider l'identité du visiteur, si celui-ci utilise également un certificat d'authentification client.
 
 
+								**Qui est Richard Stallman ?**
 
 
+
+	Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make. ( source => https://fr.wikipedia.org/wiki/Richard_Stallman)
 
 
 		
