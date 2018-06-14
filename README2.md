@@ -236,7 +236,18 @@ Envois illimités, Landing Pages illimitées, Marketing Automation Sondages en l
 
 	-Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
+Le Marketing Automation pour que les taches ce fassent automatiquement
 
+(source => https://fr.sendinblue.com)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	- QUELLE EST VOTRE ADRESS IP ACTUELLE ?
+
+192.168.1.180
+
+(source => https://doc.ubuntu-fr.org/tutoriel/connaitre_son_adresse_ip)
 
     
    
