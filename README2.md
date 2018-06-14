@@ -97,6 +97,7 @@ Les prochains rendez vous Tech sur Toulouse sont :
 
 	                Devfest 2018 => https://devfesttoulouse.fr/
       			FrenchTech toulouse => https://www.frenchtechtoulouse.com/
+			hackaton TOulouse => https://www.digitalplace.fr/agenda/hackathon-savewater-economisons-leau/ 
 
 
 								**QUI EST AARON SWARTZ ?**
@@ -111,6 +112,18 @@ est un système d’exploitation libre créé en 1983 par Richard Stallman, main
 
 Les logiciels qui composent GNU sont généralement utilisés en association avec des logiciels libres issus d'autres projets tels que le noyau Linux.
 	( source =>https://fr.wikipedia.org/wiki/GNU)
+
+
+
+							** Quelles sont les différences entre le Http et le Https ? ** 
+
+
+	Http => Le but du protocole HTTP est de permettre un transfert de fichiers (essentiellement au format HTML) localisés grâce à une chaîne de caractères appelée URL entre un navigateur (le client) et un serveur Web (appelé d'ailleurs httpd sur les machines UNIX).
+( Souce => https://www.commentcamarche.com/contents/520-le-protocole-http ) 
+	Https => HTTPS permet au visiteur de vérifier l'identité du site web auquel il accède, grâce à un certificat d'authentification émis par une autorité tierce, réputée fiable (et faisant généralement partie de la liste blanche des navigateurs internet). Il garantit théoriquement la confidentialité et l'intégrité des données envoyées par l'utilisateur (notamment des informations entrées dans les formulaires) et reçues du serveur. Il peut permettre de valider l'identité du visiteur, si celui-ci utilise également un certificat d'authentification client.
+
+
+
 
 
 
