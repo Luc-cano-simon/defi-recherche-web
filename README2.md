@@ -204,7 +204,7 @@ Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est u
 
 	- QUELS SONT SES PLUS GRANDS DÉVELOPPEMENTS
 
-Il a  créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface  
+Il a  créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface 
 
 (Source => https://fr.wikipedia.org/wiki/Linus_Torvalds#D%C3%A9buts_du_d%C3%A9veloppement)
 
@@ -228,7 +228,16 @@ Le coût d’un nom de domaine est largement tributaire de la nature du domaine.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
  
-	
+	- QUELS SONT LES DIFFÉRENTS SERVICES D'EMAILING DISPONIBLES ?
+
+Les differents service emailing disponible sont 
+
+Envois illimités, Landing Pages illimitées, Marketing Automation Sondages en ligne, Intégrations avancées Smart Pixel, Rapports statistiques en temps réel, Application mobile 
+
+	-Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+
+
+
     
    
     
