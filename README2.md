@@ -1,6 +1,6 @@
 # defi-recherche-web
 
-** PAR QUI, QUAND, POURQUOI ET OÙ A ÉTÉ INVENTÉ INTERNET ? **
+							** PAR QUI, QUAND, POURQUOI ET OÙ A ÉTÉ INVENTÉ INTERNET ? **
 
 	Dans les années 1960, en pleine guerre froide, les autorités militaires américaines demandent aux universités de réfléchir à un système de réseau fiable qui, en cas d'attaque ennemie, pourrait rediriger les données qui y circulent. Arpanet voit ainsi le jour en 1969, ne reliant que quelques ordinateurs.
 
@@ -10,16 +10,16 @@ Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier
 Source : http://www.jaitoutcompris.com/questions/qui-a-invente-internet-12.php
 
 
-** QUELLE EST LA DIFFÉRENCE ENTRE LE WEB ET INTERNET ? ** 
+						** QUELLE EST LA DIFFÉRENCE ENTRE LE WEB ET INTERNET ? ** 
 	
 	Web = Le web est un système de publication et de consultation de documents (textes, sons, images) faisant appel aux techniques de l’hypertexte qui utilisent des renvois permettant de passer directement d’une partie d’un document à une autre, ou d’un document à d’autres documents choisis comme pertinents par l’auteur. Les technologies à la base du web (url, html, http) ont été mises au point en 1989-1990 par des chercheurs européens du Cern (Organisation européenne pour la recherche nucléaire), Tim Berners-Lee et Robert Cailliau. 
 
 	internet = On trouve l’origine d’internet dans Arpanet, le premier réseau à transfert de paquets de données développé aux États-Unis en 1972 qui permet l’acheminement de proche en proche de messages découpés en paquets indépendants. L’internet est aujourd’hui un gigantesque réseau composé de millions de réseaux publics et privés, universitaires, commerciaux, gouvernementaux…
 	Source => https://www.service-public.fr/particuliers/actualites/007052
 
-** QU’EST-CE QUE CELA : 8.8.8.8 // 192.168.0.1 //  255.255.255.0 // 127.0.0.1
+					** QU’EST-CE QUE CELA : 8.8.8.8 // 192.168.0.1 //  255.255.255.0 // 127.0.0.1 **
 
-	-8.8.8.8 => Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 2009 ( source => https://fr.wikipedia.org/wiki/Google_Public_DNS)
+	-8.8.8.8 => Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet.  ( source => https://fr.wikipedia.org/wiki/Google_Public_DNS)
 	
 	-192.168.0.1 => Ceci est une adresse IP. Les réseaux IP sont caractérisés par leur indépendance par rapport au matériel et par la possibilité d'établir une communication entre 2 machines( Source => http://www.linux-france.org/article/formation/net.html)
 
@@ -38,6 +38,21 @@ Lors de la phase de développement d’un programme informatique impliquant des 
 Dans le domaine des réseaux informatiques, localhost (l’hôte local en français) est le nom habituel qui désigne une interface logique de l’ordinateur local.
 
 Le ou les clients hébergés sur une machine2 utilisent le protocole IP pour communiquer. Il importe peu de savoir où se trouvent physiquement les programmes ( source => https://fr.wikipedia.org/wiki/Localhost)
+
+						** QUE SONT LE COPYRIGHT ET LE COPYLEFT ? **
+
+	Copyleft => Le copyleft, parfois traduit comme gauche d'auteur, est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée.
+
+Le concept de copyleft a été introduit au cours des années 1970 pour désigner une forme des licences de propriété intellectuelle1.
+
+L'auteur refuse donc que l'évolution possible de son travail soit accompagnée d'une restriction du droit à la copie, à l'étude, ou à de nouvelles évolutions. De ce fait, le contributeur apportant une modification (correction, ajout, réutilisation, etc.) est contraint de redistribuer ses propres contributions avec les mêmes libertés que l'original ( Source => https://fr.wikipedia.org/wiki/Copyleft )
+
+	copyright => Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common law, l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique).
+	(Source => https://fr.wikipedia.org/wiki/Copyright ) 
+
+
+
+
 
  
 	
