@@ -56,14 +56,25 @@ L'auteur refuse donc que l'évolution possible de son travail soit accompagnée 
 
 							**Qui est Grace Hopper ?**
 
-Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959. ( https://fr.wikipedia.org/wiki/Grace_Hopper)
+	Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959. ( https://fr.wikipedia.org/wiki/Grace_Hopper)
 
 							** Qu'est-ce que Qwant ? **
 
-Qwant est un moteur de recherche français. Créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013, il annonce ne pas tracer ses utilisateurs ni vendre leurs données personnelles afin de garantir leur vie privée et se veut neutre dans l'affichage des résultats,  une nouvelle version du moteur est publiée, en avril 2015.
+	Qwant est un moteur de recherche français. Créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013, il annonce ne pas tracer ses utilisateurs ni vendre leurs données personnelles afin de garantir leur vie privée et se veut neutre dans l'affichage des résultats,  une nouvelle version du moteur est publiée, en avril 2015. ( source => https://fr.wikipedia.org/wiki/Qwant )
 
 
 							
+							**Qui est Steve Wozniak ?**
+
+	Stephen Gary Wozniak, dit Steve Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
+
+Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique. ( source => https://fr.wikipedia.org/wiki/Steve_Wozniak)
+
+							** D'où vient l'expression "bug informatique" ?**
+
+	l'ordinateur Harvard Mark II, sur lequel travaillait l'informaticienne, serait tombé en panne à cause d'une mite (bug en Anglais) qui se serait introduite dans un relais électrique, du super ordinateur, l'empêchant de fonctionner. Après avoir été retiré, le "bug" Grace l'aurait alors scotché dans un journal de bord avec la mention,  "first actual case of bug being found" soit :  "Premier cas réel de découverte d'insecte". Cet à partir de ce moment là, et à la suite de cette plaisanterie inscrite sur un journal de bord, que l'expression  "bug" informatique se serait popularisée. La mite à l'origine du  "bug" originel a donc crée le mythe de Grace Murray Hopper, l'inventrice de l'expression "bug" informatique.
+	( Source => http://www.midilibre.fr/2013/12/09/google-rend-hommage-a-l-inventrice-de-l-expression-bug-informatique,794786.php)
+
 
 
 
