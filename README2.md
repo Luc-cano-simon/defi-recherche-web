@@ -64,16 +64,43 @@ L'auteur refuse donc que l'évolution possible de son travail soit accompagnée 
 
 
 							
-							**Qui est Steve Wozniak ?**
+							**QUI EST STEVE WOZNIAK ?**
 
 	Stephen Gary Wozniak, dit Steve Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
 
 Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique. ( source => https://fr.wikipedia.org/wiki/Steve_Wozniak)
 
-							** D'où vient l'expression "bug informatique" ?**
+							** D'OÙ VIENT L'EXPRESSION "BUG INFORMATIQUE" ?**
 
 	l'ordinateur Harvard Mark II, sur lequel travaillait l'informaticienne, serait tombé en panne à cause d'une mite (bug en Anglais) qui se serait introduite dans un relais électrique, du super ordinateur, l'empêchant de fonctionner. Après avoir été retiré, le "bug" Grace l'aurait alors scotché dans un journal de bord avec la mention,  "first actual case of bug being found" soit :  "Premier cas réel de découverte d'insecte". Cet à partir de ce moment là, et à la suite de cette plaisanterie inscrite sur un journal de bord, que l'expression  "bug" informatique se serait popularisée. La mite à l'origine du  "bug" originel a donc crée le mythe de Grace Murray Hopper, l'inventrice de l'expression "bug" informatique.
 	( Source => http://www.midilibre.fr/2013/12/09/google-rend-hommage-a-l-inventrice-de-l-expression-bug-informatique,794786.php)
+
+							** QUELS SONT LES COMMUNAUTÉS DE DÉVELOPPEURS À TOULOUSE ** 
+
+	Comme communautés de dev sur Toulouse il y a :
+
+	https://www.meetup.com/fr-FR/cities/fr/toulouse/ 
+		
+	
+	prochain event : jeudi 14 juin "Apéro des Indépendants Toulouse #16
+	                  dimanche 17 juin " SMILE - Sunday Meetup: Interact, Laugh, Enjoy! "
+	                  lundi 18 juin " #32 Deep Learning avec Keras & Reinforcement Learning"
+	
+	
+https://www.frenchtechtoulouse.com/ 
+
+	prochain events : 2 et 3 octobre => EmTech Europe : MIT Technology Review.
+			  
+
+							** QUELS SONT LES PROCHAINS RENDEZ-VOUS TECH DE TOULOUSE ? **
+
+
+		
+
+
+
+
+
 
 
 
