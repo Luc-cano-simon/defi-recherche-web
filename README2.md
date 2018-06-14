@@ -87,12 +87,18 @@ Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayn
 	                  lundi 18 juin " #32 Deep Learning avec Keras & Reinforcement Learning"
 	
 	
-https://www.frenchtechtoulouse.com/ 
-
-	prochain events : 2 et 3 octobre => EmTech Europe : MIT Technology Review.
+	http://lacantine-toulouse.org/nova-melee
 			  
 
 							** QUELS SONT LES PROCHAINS RENDEZ-VOUS TECH DE TOULOUSE ? **
+
+
+Les prochains rendez vous Tech sur Toulouse sont : 
+
+	                Devfest 2018 => https://devfesttoulouse.fr/
+      			FrenchTech toulouse => https://www.frenchtechtoulouse.com/
+
+
 
 
 		
