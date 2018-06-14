@@ -175,7 +175,18 @@ Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une info
 
 		
 
+	QU’EST-CE QU’UNE ATTAQUE “BRUTE FORCE” ?
 
+
+L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.
+
+Cette méthode est en général considérée comme la plus simple concevable. Elle permet de casser tout mot de passe en un temps fini indépendamment de la protection utilisée, mais le temps augmente avec la longueur du mot de passe. En théorie la complexité d'une attaque par force brute est une fonction exponentielle de la longueur du mot de passe, la rendant en principe impossible pour des mots de passe de longueur moyenne; En pratique des optimisations heuristiques peuvent donner des résultats dans des délais beaucoup plus courts.
+
+Cette méthode est souvent combinée avec l'attaque par dictionnaire et par table arc-en-ciel pour trouver le secret plus rapidement.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
