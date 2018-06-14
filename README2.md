@@ -50,6 +50,14 @@ L'auteur refuse donc que l'évolution possible de son travail soit accompagnée 
 	copyright => Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common law, l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique).
 	(Source => https://fr.wikipedia.org/wiki/Copyright ) 
 
+						** Que sont les Creatives Commons ? ** 
+
+	Creative Commons (CC) est une association à but non lucratif dont la finalité est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, ne protègent aucun ou seulement quelques droits relatifs aux oeuvres. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.
+
+						
+
+
+
 
 
 
